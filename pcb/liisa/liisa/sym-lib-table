@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Hasu components")(type "Legacy")(uri "C:/Users/jpluo/Downloads/kicad_lib_tmk-master/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "blackpill")(type "Legacy")(uri "C:/Users/jpluo/Downloads/Kicad-STM32-master/Kicad-STM32-master/Symbols/YAAJ_WeAct_BlackPill_Part_Like.lib")(options "")(descr ""))
+)

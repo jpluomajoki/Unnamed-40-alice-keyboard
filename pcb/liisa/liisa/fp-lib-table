@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Hasu's footprints")(type "KiCad")(uri "C:/Users/jpluo/Downloads/keyboard_parts.pretty-master/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name "keebs-pretty")(type "KiCad")(uri "C:/Users/jpluo/Downloads/keebs.pretty-master/keebs.pretty-master")(options "")(descr ""))
+  (lib (name "blackpill")(type "KiCad")(uri "C:/Users/jpluo/Downloads/Kicad-STM32-master/Kicad-STM32-master/Footprints")(options "")(descr ""))
+)
