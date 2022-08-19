@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Jere Luomajoki",
+    "keyboard_name": "nurinkurin",
+    "maintainer": "Jere Luomajoki",
+    "bootloader": "stm32-dfu",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "processor": "STM32F401",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_default": {
+                "layout": [{"label":"Esc", "x":-2.5, "y":-1.25}, {"label":"Q", "x":-1.25, "y":-1.25}, {"label":"Tab", "x":-2.5, "y":-0.25, "w":1.25}, {"label":"A", "x":-1.25, "y":-0.25}, {"label":"Shift", "x":-2.5, "y":0.75, "w":1.5}, {"label":"Z", "x":-1.0, "y":0.75}, {"label":"Ctrl", "x":-2.25, "y":1.75, "w":1.25}, {"label":"P", "x":0.25, "y":1.5}, {"label":"{", "x":1.25, "y":1.5}, {"label":"Enter Delete", "x":2.5, "y":1.5, "w":1.25, "h":2}, {"label":"\u00f6", "x":0.5, "y":2.5}, {"label":"\u00e4", "x":1.5, "y":2.5}, {"label":">", "x":0.25, "y":3.5}, {"label":"?", "x":1.25, "y":3.5}, {"label":"Shift", "x":2.25, "y":3.5, "w":1.5}, {"label":"Ctrl", "x":2.25, "y":4.5, "w":1.25}, {"label":"Alt", "x":-0.25, "y":7.5, "w":1.25}, {"label":"W", "x":-0.25, "y":4.25}, {"label":"E", "x":0.75, "y":4.25}, {"label":"R", "x":1.75, "y":4.25}, {"label":"T", "x":2.75, "y":4.25}, {"label":"S", "x":0, "y":5.25}, {"label":"D", "x":1, "y":5.25}, {"label":"F", "x":2, "y":5.25}, {"label":"G", "x":3, "y":5.25}, {"label":"X", "x":0.5, "y":6.25}, {"label":"C", "x":1.5, "y":6.25}, {"label":"V", "x":2.5, "y":6.25}, {"label":"B", "x":3.5, "y":6.25}, {"x":1.5, "y":7.25, "w":2.25}, {"label":"Super", "x":3.75, "y":7.25}, {"label":"Y", "x":-4, "y":7}, {"label":"U", "x":-3.0, "y":7}, {"label":"I", "x":-2, "y":7}, {"label":"O", "x":-1.0, "y":7}, {"label":"H", "x":-3.75, "y":8}, {"label":"J", "x":-2.75, "y":8}, {"label":"K", "x":-1.75, "y":8}, {"label":"L", "x":-0.75, "y":8}, {"label":"B", "x":-4.25, "y":9}, {"label":"N", "x":-3.25, "y":9}, {"label":"M", "x":-2.25, "y":9}, {"label":"<", "x":-1.25, "y":9}, {"x":-4.25, "y":10, "w":2.75}, {"label":"Alt", "x":-1.0, "y":10.25, "w":1.25}]
+        }
+    }
+}

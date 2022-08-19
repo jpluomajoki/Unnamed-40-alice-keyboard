@@ -1,0 +1,3 @@
+BOOTLOADER = stm32-dfu
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
